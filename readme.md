@@ -22,11 +22,11 @@ https://github.com/first20hours/google-10000-english/blob/master/google-10000-en
 
 Alexa or Echo,
 
-Ask C3PO to translate "Human-Cyborg relations" into Hawaiian.
-Ask C3PO to translate "Luke, I am your father" into Spanish.
-Ask C3PO to translate "He’s holding a thermal detonator" into Mandarin.
-Ask C3PO to translate "It's a trap" into French.
-Ask C3PO to translate "Don't get technical with me" into German.
+* Ask C3PO to translate "Human-Cyborg relations" into Hawaiian.
+* Ask C3PO to translate "Luke, I am your father" into Spanish.
+* Ask C3PO to translate "He’s holding a thermal detonator" into Mandarin.
+* Ask C3PO to translate "It's a trap" into French.
+* Ask C3PO to translate "Don't get technical with me" into German.
 
 ## TODO:
 * Improve utterances: 
